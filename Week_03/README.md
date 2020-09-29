@@ -37,3 +37,5 @@ After we the Week_02 that we were practicing how to draw simple; shapes and line
 Please click on the image, it will direct you to the youtube video showing what is Nearly Spirograph that we created is look like. The code to our Nearly Spirograph is also located in the folder as well.
 
 [![Click to Watch](http://img.youtube.com/vi/8kRcXH7IjIk/0.jpg)](http://www.youtube.com/watch?v=8kRcXH7IjIk "Nearly Spirograph")
+
+[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_03/Nearly_Spiragraph/)
