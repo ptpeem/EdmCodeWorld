@@ -31,11 +31,6 @@ To find out more about our First_Plan please visit this link :
 ## In class Processing
 
 ![](Nearly.jpg)
+[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_03/Nearly_Spiragraph/)
 
 After we the Week_02 that we were practicing how to draw simple; shapes and lines. This week we were having discussion about how can to draw something with simple lines and movement. We then came up with an idea of how to draw something close to a spirograph. At the end we create something which we called it “Nearly Spirograph” using the command such as var movement/ var angleRotation, translate and rotate.
-
-Please click on the image, it will direct you to the youtube video showing what is Nearly Spirograph that we created is look like. The code to our Nearly Spirograph is also located in the folder as well.
-
-[![Click to Watch](http://img.youtube.com/vi/8kRcXH7IjIk/0.jpg)](http://www.youtube.com/watch?v=8kRcXH7IjIk "Nearly Spirograph")
-
-[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_03/Nearly_Spiragraph/)
