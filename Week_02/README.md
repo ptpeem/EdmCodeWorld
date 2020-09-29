@@ -12,7 +12,8 @@ I first began my process by creating my alphabet in Adobe illustrator ( Grid tur
 
 ## Lecture and discussion
 
-[![Watch the video](https://youtu.be/ORSlU9lInRw)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ORSlU9lInRw/0.jpg)](http://www.youtube.com/watch?v=ORSlU9lInRw "Algorithmic Typography")
 
 
 We began the showcased about modular typeface from the Bauhaus to contemporary designers working in “Algorithmic typography” or also know as “Parametric typography”. So, what is Algorithmic typography? It is a mathematician comes up with a set of formulae that define attributes for the whole batch. Parametric typography can be use to create a desired effect, or just apply them to an alphabet and sees what happens, and the resulting uses range from the utilitarian to the bizarre
