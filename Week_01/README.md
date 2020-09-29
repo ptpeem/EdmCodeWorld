@@ -33,3 +33,8 @@ We were introduced to one of Karen and Andy mechanisms project called “Trump o
 ![](Melbourne.jpg) 
 
 We were introduced to Melbourne city via digital space created using Minecraft (well a virtual version of Melbourne). We were having discussion on hypertextuality, and how reading may be changing in digital space. The purpose is because we are going to be doing for our first project which is aim to work as a group in order to explore how reading is changing in virtual environments. Each group will be provided a short text to be interpreted through a performance in the popular online gaming environment ( Minecraft ).
+
+## Alphabet Processing
+
+In the first week we have been assigned to make our first sketch using processing. The aims here is to use only simple shapes, lines, and colours to contruct alphabets of our name ( Or English equivalent ).
+
