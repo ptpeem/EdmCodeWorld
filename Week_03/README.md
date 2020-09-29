@@ -2,7 +2,7 @@
 
 Please click on the image, it will direct you to the youtube video for case-studies on avatars and virtual identities
 
-[![Click to Watch](http://img.youtube.com/vi/aJ510QfMaGA/0.jpg)](http://www.youtube.com/watch?v=aJ510QfMaGA"Mariko Mori")
+[![Click to Watch](http://img.youtube.com/vi/aJ510QfMaGA/0.jpg)](http://www.youtube.com/watch?v=aJ510QfMaGA "Mariko Mori")
 
 At the begin of session, we were introduce to what is mean by virtual identities? It is mean a part of an interface that represents the user in a virtual world such as a chat room, video game, or virtual common space. There a different type of virtual identities which are built to complement various platform and virtual spaces. It is commonly used in video games or virtual space which called “ Avatars” and each avatar often provide with a name, profiles and information about the avatar. Virtual space will more or less represent the actual physical or stories reflecting on the identity of the user or avatar. 
 
@@ -36,4 +36,4 @@ After we the Week_02 that we were practicing how to draw simple; shapes and line
 
 Please click on the image, it will direct you to the youtube video showing what is Nearly Spirograph that we created is look like. The code to our Nearly Spirograph is also located in the folder as well.
 
-[![Click to Watch](http://img.youtube.com/vi/8kRcXH7IjIk/0.jpg)](http://www.youtube.com/watch?v=8kRcXH7IjIk"Nearly Spirograph")
+[![Click to Watch](http://img.youtube.com/vi/8kRcXH7IjIk/0.jpg)](http://www.youtube.com/watch?v=8kRcXH7IjIk "Nearly Spirograph")
