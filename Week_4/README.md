@@ -27,7 +27,7 @@ The image above show example of some of the scenes that I have created for our g
 
 Please click on the image, it will direct you to the youtube video (one example) of the scene that I recordered for our project.
 
-[![Click to Watch](http://img.youtube.com/vi/AAnRk4LWSuM/0.jpg)](http://www.youtube.com/watch?v=AAnRk4LWSuM"Abstract archetype")
+[![Click to Watch](http://img.youtube.com/vi/AAnRk4LWSuM/0.jpg)](http://www.youtube.com/watch?v=AAnRk4LWSuM "Abstract archetype")
 
 Production process, we as a group help to do the record. The process we did here is each one of us will take all the scenes that we have planed to be included in our video, doing it this way help us to have more scene sto choose. This process is very helpful in term of showing individual creativity. Because one person film (record) may be different from another and in this case we have a lot of footages, camera angles and style to choose from. After each of us individually finished the record we sent it to Wen and Faye ( Editors ) who are encharged for putting it all together to finish our outcome
 
