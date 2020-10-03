@@ -10,7 +10,7 @@ Honestly, I am much appreciated with all the efforts that everyone in the group 
 
 Please click on the image, it will direct you to the youtube video the final releases of “House of Leaves Book | Introduction Part | interpreted in Minecraft”
 
-[![Click to Watch](http://img.youtube.com/vi/uiOQQN-uh4c/0.jpg)](http://www.youtube.com/watch?v=uiOQQN-uh4c ”House of Leaves Book | Introduction Part | interpreted in Minecraft
+[![Click to Watch](http://img.youtube.com/vi/uiOQQN-uh4c/0.jpg)](http://www.youtube.com/watch?v=uiOQQN-uh4c”House of Leaves Book | Introduction Part | interpreted in Minecraft
 ")
 
 Directed, constructed and produced by “The best mine crafter” : Yutang Mu, Siyang Wen, Feitong Faye, Bridie O’Toole and Peem Thaugsuban
@@ -35,7 +35,7 @@ To find out more about the summaries of texts, please visit this link (“ The G
 
 Please click on the image, it will direct you to the youtube video that I have studied about  “Glitch - Benchmarking the deranged: Rosa Menkman”
 
-[![Click to Watch](http://img.youtube.com/vi/64V-nkVpnes/0.jpg)](http://www.youtube.com/watch?v=64V-nkVpnes ”Glitch - Benchmarking the deranged: Rosa Menkman")
+[![Click to Watch](http://img.youtube.com/vi/64V-nkVpnes/0.jpg)](http://www.youtube.com/watch?v=64V-nkVpnes”Glitch - Benchmarking the deranged: Rosa Menkman")
 
 The reason I like about this text is because, I like how glitch practices and theory can generate awareness through technically, culturally, critically,aesthetically and finally as genre. Glitch makes sense differently in terms of noise, failure and accident which can also be use to shown in different contexts such as political and social uses. 
 
