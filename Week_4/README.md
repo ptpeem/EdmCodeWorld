@@ -7,7 +7,7 @@ This week, we developed our plan into more dept and better understanding on our 
 
 To find out more about our Second_Plan please visit this link :
 
-[BestMincraft_Scrip&Plan](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit#).
+[BestMincraft_Script&Plan](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit#).
 
 ![](Miro.jpg) 
 
@@ -15,7 +15,7 @@ We also made a contribution on the online whiteboard platform called “Miro”.
 
 To find out more about our Miro_Plan please visit this link :
 
-[BestMincraft_Scrip&Plan](https://miro.com/app/board/o9J_kngxnTk=/#).
+[BestMincraft_Script&Plan](https://miro.com/app/board/o9J_kngxnTk=/#).
 
 ## Assignment 2 : Construction ( Progress )
 
