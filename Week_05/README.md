@@ -12,7 +12,8 @@ Please click on the image, it will direct you to the youtube video the final rel
 
 [![Click to Watch](http://img.youtube.com/vi/uiOQQN-uh4c/0.jpg)](http://www.youtube.com/watch?v=uiOQQN-uh4c)
 
-Directed, constructed and produced by “The best mine crafter” : Yutang Mu, Siyang Wen, Feitong Faye, Bridie O’Toole and Peem Thaugsuban
+Directed, constructed and produced by “The best mine crafter” : 
+Yutang Mu, Siyang Wen, Feitong Faye, Bridie O’Toole and Peem Thaugsuban
 
 ## In class - Major Project
 
