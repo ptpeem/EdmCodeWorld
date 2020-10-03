@@ -33,7 +33,7 @@ Production process, we as a group help to do the record. The process we did here
 
 To see more of the records that I filmed for our group please visit this link :
 
-[BestMincraft_Peem_Records](https://miro.com/app/board/o9J_kngxnTk=/#).
+[BestMincraft_Peem_Records](https://drive.google.com/drive/folders/1FOQzDVzEScHNB4rxxPsEGC_hfnaHQmfh?usp=sharing).
 
 ## In class : Processing - A practice for spinning-text.
 
@@ -47,6 +47,9 @@ In the processing workshop, we learnt how to create a spinning-text with using f
 Since coding is very new to me, I tried my best to learn the coding language step-by-step from tutorial on Youtube. I then came up with four little exercise to get me going and understanding more on “ HOW TO CODE “. Honestly, it was not easy at all and I was very panic and scared to play around with it. Well people may say “Its not rock as science” but well for me when I was in high school I got a “U=Ungrade” for my science and this doing coding I got the same feeling. 
 
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/TheMapping/)
+
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/TheObjectGroupCode/)
+
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/VariablePractice/)
+
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/MousePressed/)
