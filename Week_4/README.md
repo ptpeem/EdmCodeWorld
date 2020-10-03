@@ -38,7 +38,7 @@ To see more of the records that I filmed for our group please visit this link :
 ## In class : Processing - A practice for spinning-text.
 
 ![](spinning-text.jpg)
-[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_04/Typetest2/)
+[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/Typetest2/)
 
 In the processing workshop, we learnt how to create a spinning-text with using function such as rotate, frameRate, spint+=map and pop. Honestly, I was very stress and panic because it is all new to me but I also found it was challenging and fun to learn about the code language. Karen was saying “ Our brain function like Jazz” while for me “ Coding function like EDM”.
 
