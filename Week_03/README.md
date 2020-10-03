@@ -26,7 +26,7 @@ As a group, we created a Goole Doc and shared for everyone and make contribution
 
 To find out more about our First_Plan please visit this link :
 
-[BestMincraft_Scrip&Plant](https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit#).
+[BestMincraft_Scrip&Plan](https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit#).
 
 ## In class Processing
 
