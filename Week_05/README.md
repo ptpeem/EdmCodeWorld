@@ -2,7 +2,7 @@
 
 Please click on the image, it will direct you to the youtube video of the teaser ( Pre-screening ) of our Task 2 project.
 
-[![Click to Watch](http://img.youtube.com/vi/AAnRk4LWSuM/0.jpg)](http://www.youtube.com/watch?v=AAnRk4LWSuM ”Teaser:House of leave: Introduction")
+[![Click to Watch](http://img.youtube.com/vi/AAnRk4LWSuM/0.jpg)](http://www.youtube.com/watch?v=AAnRk4LWSuM)
 
 This week we were required to present a teaser ( Pre-screening ) for our Task 2 project “ House of leave: Introduction “. The purpose of this is to get feedback and advice from our peers and lecturers before submitting the final outcome in the mid-night. Our group we were presenting a horror and creepy atmosphere through the use of music, sound effect, long shots, close up, fast cut, scenery shot and montage.
 
@@ -10,7 +10,7 @@ Honestly, I am much appreciated with all the efforts that everyone in the group 
 
 Please click on the image, it will direct you to the youtube video the final releases of “House of Leaves”
 
-[![Click to Watch](http://img.youtube.com/vi/uiOQQN-uh4c/0.jpg)](http://www.youtube.com/watch?v=uiOQQN-uh4c ”interpreted in Minecraft")
+[![Click to Watch](http://img.youtube.com/vi/uiOQQN-uh4c/0.jpg)](http://www.youtube.com/watch?v=uiOQQN-uh4c)
 
 Directed, constructed and produced by “The best mine crafter” : Yutang Mu, Siyang Wen, Feitong Faye, Bridie O’Toole and Peem Thaugsuban
 
@@ -34,7 +34,7 @@ To find out more about the summaries of texts, please visit this link (“ The G
 
 Please click on the image, it will direct you to the youtube video that I have studied about  “Glitch - Benchmarking the deranged: Rosa Menkman”
 
-[![Click to Watch](http://img.youtube.com/vi/64V-nkVpnes/0.jpg)](http://www.youtube.com/watch?v=64V-nkVpnes ”Rosa Menkman")
+[![Click to Watch](http://img.youtube.com/vi/64V-nkVpnes/0.jpg)](http://www.youtube.com/watch?v=64V-nkVpnes)
 
 The reason I like about this text is because, I like how glitch practices and theory can generate awareness through technically, culturally, critically,aesthetically and finally as genre. Glitch makes sense differently in terms of noise, failure and accident which can also be use to shown in different contexts such as political and social uses. 
 
