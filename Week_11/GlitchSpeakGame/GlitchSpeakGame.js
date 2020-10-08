@@ -51,7 +51,7 @@ function draw () {
   
       if (frameCount === 2 || frameCount % interval === 0) {   
         
-      // [WORLD] generate word content variable from frameCount
+      // [WORD] generate word content variable from frameCount
         var wordContent = 0;
         if (frameCount === 2) {
           wordContent = 0;
