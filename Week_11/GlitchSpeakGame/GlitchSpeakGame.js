@@ -49,11 +49,11 @@ function draw () {
   
       background (220);
   
-      if (frameCount === 1 || frameCount % interval === 0) {   
+      if (frameCount === 2 || frameCount % interval === 0) {   
         
       // [WORLD] generate word content variable from frameCount
         var wordContent = 0;
-        if (frameCount === 1) {
+        if (frameCount === 2) {
           wordContent = 0;
         } else {
           wordContent = (frameCount / interval) % 6;
