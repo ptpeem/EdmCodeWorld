@@ -1,6 +1,8 @@
 // Game : GLITCHSPEAK
-// Purpose of the game : Is to learn the meaning of creating "THE PERFECT GLITCH" by try to match the [Key] to the first alphabet of each words appear on the screen. If the users match the right key then the meanings will appear else if the users match the wrong key something else will appear. If the users match wrong 3 times the game will over.
-//
+// Purpose of the game : Is to learn the meaning of creating "THE PERFECT GLITCH". 
+// by try to match the [Key] to the first alphabet of each words appear on the screen.
+// If the users match the right key then the meanings will appear else if the users match the wrong key something else will appear. 
+// If the users match wrong 3 times the game will over.
 
 //G = [G]remlins
 //L = [L]urking
