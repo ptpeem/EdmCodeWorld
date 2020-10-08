@@ -1,8 +1,8 @@
 // Game : GLITCHSPEAK
-// Purpose of the game : Is to learn the meaning of creating "THE PERFECT GLITCH". 
-// by try to match the [Key] to the first alphabet of each words appear on the screen.
-// If the users match the right key then the meanings will appear else if the users match the wrong key something else will appear. 
-// If the users match wrong 3 times the game will over.
+//To find the meanings of creating "THE PERFECT GLITCH". Try to match the key to the first alphabet of each words appear on the screen.Then the meanings will appear.
+// If the users Match the first Alphabet of each word display screen the meaningS will appear.
+// If the users match the wrong keys the result will be something eles.
+
 
 //G = [G]remlins
 //L = [L]urking
@@ -48,13 +48,20 @@ function draw () {
         
   
       background (220);
-      
-      if (frameCount === 1 || frameCount % interval === 0) {    
+  
+      if (frameCount === 1 || frameCount % interval === 0) {   
+        
+      // [WORLD] generate word content variable from frameCount
+        var wordContent = 0;
+        if (frameCount === 1) {
+          wordContent = 0;
+        } else {
+          wordContent = (frameCount / interval) % 6;
+        }
       // generating number every the number of frames
-      // ** [Next]  Changing to alphabets 
-       
+      // ** [Next]  Changing to words
         solution = null; //null = antevalaue essentially.
-        guessItem = new GuessItem(windowWidth/2, windowHeight/2, 6);
+        guessItem = new GuessItem(windowWidth/2, windowHeight/2, 6, wordContent);
       
       // Shorten-version
       //content = parseInt (random (6), 6); * Full-version
@@ -94,6 +101,7 @@ function solutionMessage (solution){
   var trueMessages = [
     
     'ABSENCE : The absence of meaning in this case the presence of all meanings.',
+    
     'MEANING : Presence of all meanings, absolute ambiguity, a construction outside meaning.',
     'CONSTRUCT: Within the constructed ruins of glitch, new possibilities and new meaning arise.',
     'DESTRUCT : There is something more than just destruction: new understandings lie just beyond the tipping point.',
@@ -128,9 +136,9 @@ function solutionMessage (solution){
 
 function displayGameOver (score) {
       
-      //displayed gameover & user-score
+  //displayed gameover & user-score
       //promb user to press the key to "Restart or to begining page"
-      //the game restart when pressed enter.
+      //the game restart when pressed enter
 
       var glitch = random(3);
       var glitchx = random (2);
@@ -229,7 +237,7 @@ function restartTheGame() {
       results = [];
       //making the result variable pont to entering the game
       solution = null;
-      //clear the solution variable
+      //it will also clear the solution variable
       gameOver = false;
       //make the gameOver variable to be false
   
@@ -271,28 +279,36 @@ function keyPressed() {
       } 
   
       else {
-        //if it is equivalent to null this will console.log nothing happen
+        //but if it is equivalent to null this will console.log nothing happen
         
         console.log ('nothing to be solved');
       }
   }
   
-function GuessItem (x, y, scl) { 
+function GuessItem (x, y, scl, wordContent) { 
       
       //Class = take three arguments x, y , and scalability position
       
       this.x = x; 
+      //argument inside the object using this key word
+      
       this.y = y; 
+      //argument inside the object using this key word
+      
       this.scale = 1; 
+      //argument inside the object using this key word
+      
       this.scaleIncrement = 0.1; 
       //Added scale animation to incre/decre the timing and the motion.
       
-      this.content = getContent ();
-      // Create to get a random number and save it = Refer to function getContent
+      this.content = wordContent;
+      // Create to get a random number and save it = Refer to function           getContent
      
       this.alpha = 220 ;
+      
       this.alphaDecrement = 2;
       //Incre/decre the alpha transparentcy = fast/slow
+      
       this.solved;
       //Set the property true/false
   
@@ -305,15 +321,13 @@ function GuessItem (x, y, scl) {
       '5' : '[H]ardware'  
       };
     
-function getContent () { 
+//function getContent (oldNumber) { 
       
       // generates a random number 
-      // ** [Next]  Changing to alphabets
-      
-      return String(parseInt (random(6), 6));
+      //return String(parseInt(random(6),6));
       // return a random integers 
-      // String added - to opt the type of the content from number to a string ** instead of number // ** [Next]  Changing to alphabets.
-      }  
+      // String added - to opt the type of the content from number to a string ** instead of converting the type of either the input or the content.
+      //}  
 
       this.solve = function (input) {
         
@@ -335,6 +349,7 @@ function getContent () {
   }  
     
       this.render = function() {
+      // A method create on this object to be called from outside of this object
 
     if (this.solved === false) {
       
