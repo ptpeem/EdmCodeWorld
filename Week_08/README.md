@@ -20,9 +20,6 @@ During the week, I was experimenting with Array function. Arrays are sequential 
 ![](ArrayWordColorsRemainderOperator.jpg)
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_08/ArrayWordColorsRemainderOperator/)
 
-![](RandomFunctionCircle.jpg)
-[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_07/RandomFunctionCircle/)
-
 This week, I was also experimenting with “Remainder Operator (%)”. This function is mean to given the two values, remainder operator return the remainder left over when the value on the first value on the left is divided by the second value on the right. I was experimenting with displaying the words on the screen instead of the index numbers and as well as changing background colours base on the input in the array. 
 
 ## Processing : MousePressed Event Function.
