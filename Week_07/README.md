@@ -8,14 +8,6 @@ This is the first paper-prototype that I have created with the use of typographi
 
 [First paper-protoype](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.g980079f83c_6_10).
 
-## Paper-Prototype ( Option 2 ).
-
-![](Plan_2.gif)
-
-After I have received the feedbacks from Andy and peers. During the week, I was spending time to re-think and refine my new concept. I then came up with this Game logic for reading. The purpose of this game ramifying reading is to help the user to find the meanings of creating "THE PERFECT GLITCH"  with the glitch-aesthetic. The game works by if the users try to match the key to the first alphabet of each words appear on the screen and then the meanings of creating a perfect glitch will appear.If the users “Match” the first Alphabet of each word display screen the meanings will appear.Else, if the users match the wrong keys the result will be something else. To find out about the chosen text, key message, concept and pseudocode please see the link below.
-
-[Second paper-protoype](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.ga0301ed005_0_0).
-
 ## Processing : Loop and Loop Nested.
 
 ![](LoopNLoopnested.jpg)
