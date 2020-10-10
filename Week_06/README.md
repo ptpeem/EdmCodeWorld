@@ -15,7 +15,7 @@ In the Processing studio-time, we learnt about how to use large body of text to 
 
 ## Processing : The mapping Practice.
 
-![](TheMapping.jpg)
+![](TheMapping_New.jpg)
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_06/TheMapping/)
 
 This week, I was spending time learning about “ Mapping Function “. I was experimenting with this exercise above. The outcome that I have received here is when the circle move around  x and y position, the colours of the background will also changes it colours base on the ranges of colours that I input.
