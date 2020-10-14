@@ -26,3 +26,9 @@ This week, I was spending time learning about “ Mapping Function “. I was ex
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_06/IfElseifIfPractice/)
 
 In order to understand more about pseudo-code that Karen and Andy have introduced it to us. I was spending time experiment with pseudo-code and created some little circle animation using If, else. 
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_06'> <-- Last Week / Pseudo Code</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'> Next Week / Game Logic For Reading --></a>
+
+</p>
