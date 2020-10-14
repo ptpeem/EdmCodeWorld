@@ -2,9 +2,9 @@
 
 ## This course was lectured by the lovely couple : Karen Ann Donnachie & Andy Simionato.
 
-This studio was about the interdependent and complex ecosystems made up of "code" and "words".Throughout the studio we learnt how to 're-read' critical texts on language and reading through the creative use of computer code and scripting. We expanded our existing design practice by combining computer scripting (code) with typography (words) in order to explore how reading is transforming in the digital age.
+This studio is about the interdependent and complex ecosystems made up of "code" and "words".Throughout the studio we learnt how to 're-read' critical texts on language and reading through the creative use of computer code and scripting. We expanded our existing design practice by combining computer scripting (code) with typography (words) in order to explore how reading is transforming in the digital age.
 
-Here is what we are doing in from week 01-13 in our studio. Please have fun and enjoy our code learning via virtual world during COVID-19.
+Here are what we were doing from week 01-13 in our studio. Please have fun and enjoy our code-learning via virtual world during COVID-19 pendamic.
 
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Week_01</a>  |  Introduction
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'>Week_02</a>  |  Algorithmic typography
