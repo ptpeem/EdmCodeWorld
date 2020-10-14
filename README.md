@@ -17,6 +17,7 @@ Here are what we were doing from week 01-13 in our studio. Please have fun and e
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'> Week 9 | Game : User Interaction </a>
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'> Week 10 | Game : User Feedback </a>
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'> Week 11 | Game : UI Development </a>
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'> Week 12 | Game : Gameness Final Outcome</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'> Week 12 | Game : Gameness</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Final/'> Final | Game logic for reading</a>
 
 <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Introduction --></a>
