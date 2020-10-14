@@ -53,3 +53,9 @@ The key passage no.2 is “The absence of meaning its in this case the presence 
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_05/Typetest/)
 
 In class, we learnt how to importing text and create some adjustment. The adjustment that we learnt in this class were thing such text size, fonts and text align.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_04'> <-- Last Week / The Glitch Moment(um)</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'> Next Week / Pseudo Code --></a>
+
+</p>
