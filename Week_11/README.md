@@ -5,8 +5,6 @@
 
 ![](Plan_3.gif)
 
-1:30:00 PM –– Game logic for reading. Fascinating concept, needs work on the UI to indicate the "gameness"... gamifying reading, glitch-aesthetic. At the moment the original text seems secondary, or at least it doesn't jump out as much the generated text. So in general, make the game more obvious, and bring out the original theory...
-
 After the consultation with Andy about my game “ Logic For reading and understanding the meaning from the text”. The feedback that I received was that the original text seems secondary and it does not jump out as much. I then did play around with my new prototype for my game. I was experimenting with the layout to display the messages. For example, if the users match the right key of the first alphabet display on the screen. How/where the meanings will be display on the screen so that the users can read while playing the game. I played around with the layout of the “ Meanings and Words” to make it look more functional and playful. I have decided to try to make a starting game display page as well so that when the user press the key “Enter” the game will start and when the “Gameover page “ display and users press “Enter” it will return to the “StartingGamePage” instead of directly jumping into the game. What I am trying to do here is make the game more obvious and bring out the original theory. But honestly, I am not too sure how to make it functional and receiving the outcome that I do want to achieve by using code.
 
 ## StartingTheGame ( Page Design ).
