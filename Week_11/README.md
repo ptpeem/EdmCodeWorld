@@ -36,5 +36,9 @@ Instead of generate random number for the users to watch what I was trying to do
 
 This is the outcome that I could achieved for this week. I was be able to make the Guess words appear in the sequence that I want them to be ( Gremlins, Lurking, In, The, Computer , Hardware ). I applied glitch-aesthetic to the GameScore page with some animation. The struggled that I am facing here is I still unable to change the key from integers to be the alphabets just yet ( G, L, I, T, C, H ). I have been trying to put in the texts so when the users match the right key then the meanings will appear on the screen. Right now the meaning for the true message is there but still random. I need to find a way to make it appear on the screen like what I am aiming to achieve like on the prototype that I have created. 
 
+<p align="center">
+ 
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_10'> <-- Last Week / User Feedback</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'> Next Week / Gameness : Final Outcome --></a>
 
+</p>
 
