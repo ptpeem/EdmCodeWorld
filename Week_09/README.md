@@ -43,3 +43,9 @@ During this week, I was experimenting with generate random integers ( 1-10 ) to 
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_09/InteractionUsersPressed/)
 
 I also applied some user interaction on the sketch for this week. This allow the user to press the keys and when the user pressed the ( any keys ) the text will be gan to display. This is going to be the second step that I am making toward my final outcome.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_08'> <-- Last Week / Paper Prototype</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'> Next Week / User Interaction --></a>
+
+</p>
