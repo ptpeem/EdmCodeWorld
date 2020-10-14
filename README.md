@@ -6,17 +6,17 @@ This studio is about the interdependent and complex ecosystems made up of "code"
 
 Here are what we were doing from week 01-13 in our studio. Please have fun and enjoy our code-learning via virtual world during COVID-19 pendamic.
 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Introduction</a>  |  Introduction
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'>Algorithmic typography</a>  |  Algorithmic typography
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_03/'>Virtual Identities</a>  |  Virtual Identities
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_4/'>Assignment 2 : MineCraft Project </a>    |  Assignment 2 : MineCraft Project 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'>The Glitch Moment (um)</a>  |  The Glitch Moment (um)
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'>Pseudo Code</a>  |  Pseudo Code
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'>Assignment 3 : Game Logic For Reading</a>  |  Assignment 3 : Game Logic For Reading
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_08/'>Paper Prototype</a>  |  Paper Prototype
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'>Game : User Interaction </a>  |  Game : User Interaction  
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'>Game : User Feedback </a>  |  Game : User Feedback 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'>Game : UI Development </a>  |  Game : UI Development 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'>Game : Gameness Final Outcome</a>  |  Game : Gameness Final Outcome
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'> Week 1 | Introduction</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Week 2 | Algorithmic typography</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_03/'> Week 3 | Virtual Identities</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_4/'> Week 4 | Assignment 2 : MineCraft Project </a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'> Week 5 | The Glitch Moment (um)</a> 
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'> Week 6 |Pseudo Code</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'> Week 7 | Assignment 3 : Game Logic For Reading</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_08/'> Week 8 | Paper Prototype</a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'> Week 9 | Game : User Interaction </a> 
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'> Week 10 | Game : User Feedback </a>
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'> Week 11 | Game : UI Development </a> 
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'> Week 12 | Game : Gameness Final Outcome</a>
 
 <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'> Next Page / Introduction --></a>
