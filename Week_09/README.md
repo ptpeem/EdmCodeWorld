@@ -46,6 +46,6 @@ I also applied some user interaction on the sketch for this week. This allow the
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_08'> <-- Last Week / Paper Prototype</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'> Next Week / User Interaction --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_08'> <-- Last Week / Paper Prototype</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'> Next Week / User Feedback --></a>
 
 </p>
