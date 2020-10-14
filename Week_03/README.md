@@ -37,6 +37,6 @@ After we the Week_02 that we were practicing how to draw simple; shapes and line
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_02'> <-- Last Week / Algorithmic typography</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_04/'> Next Week / MineCraft Project --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_02'> <-- Last Week / Algorithmic typography</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_4/'> Next Week / MineCraft Project --></a>
 
 </p>
