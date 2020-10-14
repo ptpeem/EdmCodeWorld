@@ -19,4 +19,4 @@ Here are what we were doing from week 01-13 in our studio. Please have fun and e
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'>Game : UI Development </a>  |  Game : UI Development 
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'>Game : Gameness Final Outcome</a>  |  Game : Gameness Final Outcome
 
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Introduction --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'> Next Page / Introduction --></a>
