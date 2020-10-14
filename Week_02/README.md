@@ -50,6 +50,8 @@ The image above show the progress of what did we do during the week for this pro
 
 <p align="center">
   
-<a href='https://bridieotoole.github.io/codewords/'> <-- Main Page / Sutdio Description</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Next Week/Algorithmic typography --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_01'> <-- Last Week / Algorithmic typography</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_03/'> Next Week / Virtual Identities --></a>
 
 </p>
+
+
