@@ -10,7 +10,7 @@ After the consultation with Andy about my game “ Logic For reading and underst
 ## StartingTheGame ( Page Design ).
 
 ![](StartingTheGame.jpg)
-[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_11/StartingTheGame.jpg)
+[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_11/StartingTheGame)
 
 Here is the StartingTheGame page that I created. I did some experiment with the design by applied the glitch-aesthetic into the game to it suitable to original theory and as well as to indicate the Gameness. Andy has suggested to me look up at the game from Tokyo called “ Pachinko “ Game and try to bring the game principle from Pachinko and apply it into my game.
 
