@@ -31,3 +31,9 @@ This week, I was spending time learning about “Random Function”. This functi
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_07/LoopNestedLoopNoise/)
 
 I was also learning about the Noise function for this week. The noise (input) provided a sequential input, it creates random values that has a much more smooth transition. In this exercise, I used my previous sketch “RandomFunctionCircle “ for experiment. Applying the noise function to this sketch allow the my animation to become more organic-looking and different for each circle.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_06'> <-- Last Week / Pseudo Code</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_08/'> Next Week / Paper Prototype --></a>
+
+</p>
