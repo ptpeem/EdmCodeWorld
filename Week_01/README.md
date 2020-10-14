@@ -40,6 +40,6 @@ In the first week we have been assigned to make our first sketch using processin
 
 <p align="center">
   
-<a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_02/'>Next Week/Hunting and Gathering --></a>
+<a href='https://bridieotoole.github.io/codewords/'> <-- Intro </a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Next Week/Algorithmic typography --></a>
 
 </p>
