@@ -33,3 +33,10 @@ I also learnt more about MouselsPressed which is the variable that gets the valu
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_08/KeyPressedEventFunction/)
 
 I was also practicing with KeyPressed function which is the event function that gets called overtimes when a key is pressed. The out come that I got from this exercise is when any key is pressed, it will create random colours-circle on the screen.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_07'> <-- Last Week / Game Logic For Reading</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'> Next Week / User Interaction --></a>
+
+</p>
+
