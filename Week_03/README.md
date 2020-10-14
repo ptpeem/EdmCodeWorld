@@ -34,3 +34,9 @@ To find out more about our First_Plan please visit this link :
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_03/Nearly_Spiragraph/)
 
 After we the Week_02 that we were practicing how to draw simple; shapes and lines. This week we were having discussion about how can to draw something with simple lines and movement. We then came up with an idea of how to draw something close to a spirograph. At the end we create something which we called it “Nearly Spirograph” using the command such as var movement/ var angleRotation, translate and rotate.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_02'> <-- Last Week / Algorithmic typography</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_04/'> Next Week / MineCraft Project --></a>
+
+</p>
