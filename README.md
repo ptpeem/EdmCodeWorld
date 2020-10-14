@@ -4,7 +4,7 @@
 
 # Here is what we are doing in from week 01-13 in our studio. Please have fun and enjoy our code learning via virtual world during COVID-19.
 
-### <a href='https://bridieotoole.github.io/codewords/week_01/'>Week 01</a>  |  Introduction
+### <a href='https://ptpeem.github.io/EdmCodeWorld/week_01/'>Week 01</a>  |  Introduction
 ### <a href='https://bridieotoole.github.io/codewords/week_02/'>Week 02</a>  |  Hunting and Gathering
 ### <a href='https://bridieotoole.github.io/codewords/week_03/'>Week 03</a>  |  Electronic Literature
 ### <a href='https://bridieotoole.github.io/codewords/week_04/'>Week 04</a>  |  Spinning Text
