@@ -7,14 +7,14 @@ Here is what we are doing in from week 01-13 in our studio. Please have fun and 
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Week_01</a>  |  Introduction
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'>Week_02</a>  |  Algorithmic typography
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_03/'>Week_03</a>  |  Virtual Identities
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_4/'>Week_4</a>    |  Assignment 2 : Re-reading ( MineCraft Project )
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_4/'>Week_4</a>    |  Assignment 2 : MineCraft Project 
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'>Week_05</a>  |  The Glitch Moment (um)
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'>Week_06</a>  |  Pseudo Code
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'>Week_07</a>  |  Assignment 3 : Codewords ( Game Logic For Reading )
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'>Week_07</a>  |  Assignment 3 : Game Logic For Reading
 ### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_08/'>Week_08</a>  |  Paper Prototype
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'>Week_09</a>  |  Game logic for reading ( User Interaction ) 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'>Week_10</a>  |  Game logic for reading ( User Feedback ) 
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'>Week_11</a>  |  Game logic for reading ( UI Development )
-### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'>Week_12</a>  |  Game logic for reading ( Final Outcome )
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_09/'>Week_09</a>  |  Game : User Interaction  
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_10/'>Week_10</a>  |  Game : User Feedback 
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'>Week_11</a>  |  Game : UI Development 
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'>Week_12</a>  |  Game : Gameness Final Outcome
 
 <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Introduction --></a>
