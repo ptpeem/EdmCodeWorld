@@ -29,6 +29,6 @@ In order to understand more about pseudo-code that Karen and Andy have introduce
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_06'> <-- Last Week / Pseudo Code</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'> Next Week / Game Logic For Reading --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_05'> <-- Last Week / The Glitch Moment(um)</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_07/'> Next Week / Game Logic For Reading --></a>
 
 </p>
