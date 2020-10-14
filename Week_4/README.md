@@ -53,3 +53,9 @@ Since coding is very new to me, I tried my best to learn the coding language ste
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/VariablePractice/)
 
 [Play here](https://ptpeem.github.io/EdmCodeWorld/Week_4/MousePressed/)
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_03'> <-- Last Week / MineCraft Project</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'> Next Week / The Glitch Moment(um) --></a>
+
+</p>
