@@ -56,6 +56,6 @@ In class, we learnt how to importing text and create some adjustment. The adjust
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_04'> <-- Last Week / The Glitch Moment(um)</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'> Next Week / Pseudo Code --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_04'> <-- Last Week / MineCraft Project</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_06/'> Next Week / Pseudo Code --></a>
 
 </p>
