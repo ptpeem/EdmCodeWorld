@@ -38,7 +38,7 @@ This is the outcome that I could achieved for this week. I was be able to make t
 
 <p align="center">
  
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_10'> <-- Last Week / User Feedback</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Final/'> Next / Final : Game logic for reading --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_10'> <-- Last Week / User Feedback</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_12/'> Next Week/ Gameness --></a>
 
 </p>
 
