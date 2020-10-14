@@ -56,6 +56,6 @@ Since coding is very new to me, I tried my best to learn the coding language ste
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_03'> <-- Last Week / MineCraft Project</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'> Next Week / The Glitch Moment(um) --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_03'> <-- Last Week / Virtual Identities</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_05/'> Next Week / MineCraft Project --></a>
 
 </p>
