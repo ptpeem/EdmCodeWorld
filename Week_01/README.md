@@ -38,3 +38,8 @@ We were introduced to Melbourne city via digital space created using Minecraft (
 
 In the first week we have been assigned to make our first sketch using processing. The aims here is to use only simple shapes, lines, and colours to contruct alphabets of our name ( Or English equivalent ).
 
+<p align="center">
+  
+<a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_02/'>Next Week/Hunting and Gathering --></a>
+
+</p>
