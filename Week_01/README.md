@@ -40,6 +40,6 @@ In the first week we have been assigned to make our first sketch using processin
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/'> <-- Main Page / Sutdio Description</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Next Week/Algorithmic typography --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/'> <-- Main Page / Sutdio Description</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Next Week / Algorithmic typography --></a>
 
 </p>
