@@ -4,8 +4,8 @@ This studio is about the interdependent and complex ecosystems made up of "code"
 
 Here is what we are doing in from week 01-13 in our studio. Please have fun and enjoy our code learning via virtual world during COVID-19.
 
-### <a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_01'>Week_01</a>  |  Introduction
-### <a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_02'>Week_02</a>  |  Algorithmic typography
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_01/'>Week_01</a>  |  Introduction
+### <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'>Week_02</a>  |  Algorithmic typography
 ### <a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_03'>Week_03</a>  |  Virtual Identities
 ### <a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_4'>Week_4</a>    |  Assignment 2 : Re-reading ( MineCraft Project )
 ### <a href='https://github.com/ptpeem/EdmCodeWorld/tree/master/Week_05'>Week_05</a>  |  The Glitch Moment (um)
