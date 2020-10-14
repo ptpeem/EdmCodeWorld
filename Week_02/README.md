@@ -47,3 +47,9 @@ As mentioned previously in the first week that we have to explore how reading is
 ![](The best_minecrafters.jpg)
 
 The image above show the progress of what did we do during the week for this project. What we did is pretty much reading and try to understand the story of the “Introduction part”. From there, we created a google doc. to noted down what key informations or important plots that each one of us in the group took out from the book. 
+
+<p align="center">
+  
+<a href='https://bridieotoole.github.io/codewords/'> <-- Main Page / Sutdio Description</a> | <a href='https://ptpeem.github.io/EdmCodeWorld/Week_02/'> Next Week/Algorithmic typography --></a>
+
+</p>
