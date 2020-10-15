@@ -1,5 +1,15 @@
-# Welcome to my repository for "Code + Words Studio" in 2020 at RMIT University for 13 weeks periods. This course is lecture by the lovely couple : Karen Ann Donnachie & Andy Simionato.
+This is what I have archive so far this week with my game logic for reading before the submission.
 
-# This studio is about the interdependent and complex ecosystems made up of "code" and "words".Throughout the studio we learnt how to 're-read' critical texts on language and reading through the creative use of computer code and scripting. We expanded our existing design practice by combining computer scripting (code) with typography (words) in order to explore how reading is transforming in the digital age.
+##  Indicate Gameness : UI development reflecting back to Glitch Theory ( Randomly, unexpected )
 
-# Here is what we are doing in from week 01-13 in our studio. Please have fun and enjoy our code learning via virtual world during COVID-19.
+![](Pachinko_Gameness.jpg)
+[Play here](https://ptpeem.github.io/EdmCodeWorld/Week_12/GlitchSpeakGameLatest)
+
+After the consultation with Andy about my game. He has mentioned to me to develop the UI of my Game. I took the feedbacks and did more research on Pachinko Game and I tried to apply the style of it into my game. Currently, my game indicates more visual of gameness with glitch-aesthetic. I have added the random effect in to some elements such as colours, shapes and text. I was trying to reflecting back to the theory of glitch which is to generate new understanding of techno-culture through the gestations of Glitchspeak. Glitch’s constantly growing through the use of randomness, shapes, colours and meanings to generate new expression.
+
+## Adding Sound effect.
+
+![](Sound.jpg)
+[Sound Effect](https://editor.p5js.org/PeemT/sketches/yS694Y4d6).
+
+I have experimenting with adding sound effect into my game this week. It was working properly when I did my code on editor.p5js.org but when I work on processing somehow the sound was not working. I then decided to leave it for my submission but I do want to have sound effect into my game in order to improve users experience.
