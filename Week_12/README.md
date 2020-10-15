@@ -22,6 +22,6 @@ I have experimenting with adding sound effect into my game this week. It was wor
 
 <p align="center">
   
-<a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'> <-- Last Week / UI Development> | <a href='https://ptpeem.github.io/EdmCodeWorld/final'> Main Page / Next Final --></a>
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'> <-- Last Week / UI Development> | <a href='https://ptpeem.github.io/EdmCodeWorld/Final'> Next Final --></a>
 
 </p>
