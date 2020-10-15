@@ -11,7 +11,7 @@ The game title is called “Glitchspeak” - logic game for reading.  This game
 
 Please click on the image, it will direct you to the youtube video of the final project that I have achieved in using “P5JS : The game logic for reading called "Glitchspeak"
 
-[![Click to Watch](https://youtu.be/f8dOilUyj8c/0.jpg)](https://youtu.be/f8dOilUyj8c)
+[![Click to Watch](http://img.youtube.com/vi/f8dOilUyj8c/0.jpg)](https://youtu.be/f8dOilUyj8c)
 
 The purpose of this Game is to encourage users to enjoy playing the game while also be able to learn the meanings from the chosen text. This game is designed for the users to match the right “Keys” of the first alphabet of each words display on the screen. If the users match the right keys before the new words display, they will be rewarded with the meanings of “Creating the perfect glitch using critical media aesthetic”. Else, if the users match the wrong keys. The meanings will not arise but error messages will be display. If the users match the keys wrong three times the game will over. 
 
