@@ -1,3 +1,9 @@
+## Major Coding Project - Progress.
+
+## Toward submission
+
+![](S3453040_Peem_Glitch_Game.gif)
+
 This is what I have archive so far this week with my game logic for reading before the submission.
 
 ##  Indicate Gameness : UI development reflecting back to Glitch Theory ( Randomly, unexpected )
