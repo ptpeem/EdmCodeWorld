@@ -1,3 +1,12 @@
+## Showcase
+
+![](Showcase.jpg)
+
+You can visit our virtual-world showcase here. This showcase contain all of the RMIT students work from our studio.
+
+[Showcase](https://simandy.github.io/codewords/).
+
+
 ## Final Submission
 
 ## About the project.
