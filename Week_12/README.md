@@ -19,3 +19,9 @@ After the consultation with Andy about my game. He has mentioned to me to develo
 [Sound Effect](https://editor.p5js.org/PeemT/sketches/yS694Y4d6).
 
 I have experimenting with adding sound effect into my game this week. It was working properly when I did my code on editor.p5js.org but when I work on processing somehow the sound was not working. I then decided to leave it for my submission but I do want to have sound effect into my game in order to improve users experience.
+
+<p align="center">
+  
+<a href='https://ptpeem.github.io/EdmCodeWorld/Week_11/'> <-- Last Week / UI Development> | <a href='https://ptpeem.github.io/EdmCodeWorld/final'> Main Page / Next Final --></a>
+
+</p>
