@@ -42,3 +42,4 @@ My background as a visual creators who passionate about communication design, gr
 ![](Actual_Plan.gif)
 
 Reflection of the outcome, Honestly I have not quite achieve what I want to achieve into this project. There are severals things that I want to adding into my game such as combine the game starting page, adding audio, add more visual (layout and effect ) into the meanings display page and fixing the bug. In some point the outcome is not achieve what as what I wanted to achieve from my plan but I am proud of myself that I have reached this for with coding because I am very new to code and I was a very tough and challenging time in this studio. 
+
